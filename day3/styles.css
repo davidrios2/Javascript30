@@ -1,0 +1,44 @@
+:root {
+    --base: blue;
+    --spacing: 10px;
+    --blur: 0px;
+    --invert: 0;
+    --sepia: 0;
+    --contrast: 1;
+    --saturate: 1;
+    --opacity: 1;
+}
+
+img {
+    filter: invert(var(--invert));
+    filter: sepia(100%);
+    filter: contrast(var(--contrast));
+    filter: saturate(var(--saturate));
+    filter: opacity(var(--opacity));
+
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blur));
+}
+
+.h1 {
+    color: var(--base);
+}
+
+
+body {
+    text-align: center;
+    background: #49545c;
+    color: white;
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.controls {
+    margin-bottom: 50px;
+}
+
+input {
+    width: 100px;
+}
