@@ -1,0 +1,11 @@
+  body {
+    background: linear-gradient(to right, hsl(263, 14%, 53%), hsl(271, 15%, 72%));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+  h1{
+    color: rgb(0, 0, 0);
+  }
