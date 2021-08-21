@@ -15,7 +15,9 @@
  [Day 12|][day12]
  [Day 13 |][day13]
  [Day 14 |][day14]
-
+ [Day 15 |][day15]
+ [Day 16 |][day16]
+ 
 [day1]: hhttps://davidrios2.github.io/day1/
 [day2]: hhttps://davidrios2.github.io/day2/
 [day3]: hhttps://davidrios2.github.io/day3/
@@ -30,3 +32,5 @@
 [day12]: hhttps://davidrios2.github.io/day12/
 [day13]: hhttps://davidrios2.github.io/day13/
 [day14]: hhttps://davidrios2.github.io/day14/
+[day15]: hhttps://davidrios2.github.io/day15/
+[day16]: hhttps://davidrios2.github.io/day16/
